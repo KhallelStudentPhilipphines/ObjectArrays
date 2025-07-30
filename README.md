@@ -2,9 +2,9 @@
 Exercise
 
 
-import java.util.*;
-public class ObjectArray {
-    public static void main(String[] args) {
+        import java.util.*;
+        public class ObjectArray {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter size of the array:");
